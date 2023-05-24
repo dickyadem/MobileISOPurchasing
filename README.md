@@ -2,7 +2,7 @@
 
 MobileISOPurchasing adalah sebuah aplikasi seluler yang dirancang untuk memfasilitasi proses pembelian barang dari pemasok melalui platform online. Aplikasi ini memberikan kemudahan bagi pengguna untuk menjelajahi dan membeli berbagai jenis barang dari berbagai pemasok yang terdaftar.
 <br>
-<h1/>Fitur-fitur utama dari MobileISOPurchasing meliputi:
+<h1>Fitur-fitur utama dari MobileISOPurchasing meliputi:<h1/>
 <br>
 *Manajemen Barang:
 
